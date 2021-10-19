@@ -1,3 +1,3 @@
 # Protoflio Website
 ## Demo
-https://Joo0x.github.com/Personal-Portfolio
+https://Joo0x.github.io/Personal-Portfolio
